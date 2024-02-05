@@ -52,12 +52,12 @@ This method is useful if you want to install the most recent changes that may no
 To use `betternom`, run the following command in your terminal:
 
 ```sh
-betternorm [options] filename
+betternorm [filename] [options]
 ```
 
 Options include:
 
-- `-a`, `--args` to pass additional arguments to norminette.
+- `-a`, `--args` to pass additional arguments to norminette. (will take the rest of the command line and pass it to norminette)
 - `-e`, `--error-only` to display only errors.
 - `-m`, `--minimize` for minimized output.
 - `-s`, `--summary-only` to display only the summary.
