@@ -24,7 +24,7 @@ To install `betternom` directly from the GitLab repository:
 1. Clone the repository:
 
 ```sh
-git clone https://gitlab.com/yourusername/betternom.git
+git clone https://gitlab.com/theo_vdml/betternorm
 ```
 
 2. Navigate to the cloned directory:
