@@ -39,6 +39,12 @@ cd betternom
 pip install .
 ```
 
+4. If you face an error with permission (at school for example) try with the --user params
+
+```sh
+pip install . --user
+```
+
 This method is useful if you want to install the most recent changes that may not yet be published on PyPI.
 
 ## Usage
