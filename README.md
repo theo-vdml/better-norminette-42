@@ -9,6 +9,8 @@
 - **Error Only Mode:** Can be configured to show only errors, omitting the OK messages for cleaner output.
 - **Summary View:** Provides a summary of the norminette run, including counts of files checked, errors found, etc.
 
+![image info](screenshots/screenshot1.png)
+
 ## How to Install
 
 ### Prerequisites
