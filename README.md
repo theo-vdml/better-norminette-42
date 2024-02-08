@@ -1,3 +1,5 @@
+
+![logo](https://gitlab.com/uploads/-/system/project/avatar/54594885/_dd2e55ed-f7d2-492e-85ab-1fc802388598.jpg?width=96)
 # Better Norminette - Colors in 42 norminette output
 
 `betternom` is a Python utility designed to enhance the output of the norminette by adding colorization to its output, making it easier to distinguish between various types of messages such as errors and successful checks. It utilizes `colorama` for terminal color output and provides additional functionality such as minimizing output and showing errors only.
